@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 9154f54b-dd92-641d-dfab-1cf4edfd209a
 ---
@@ -103,7 +106,7 @@ Haus, H. A. _Waves and Fields in Optoelectronics_. Chapeter 1.
   
 Yeh, P. _Optical Waves in Layered Media_. New York, NY: Wiley, 2005, chapter 2.  
   
-Handout: Dielectric Response in an SiO2 Optical Fiber ([PDF]({{< baseurl >}}/resources/dielectric_plot))
+Handout: Dielectric Response in an SiO{{< sub "2" >}} Optical Fiber ([PDF]({{< baseurl >}}/resources/dielectric_plot))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -126,7 +129,7 @@ Nagel, Suzanne R. "Optical Fiber - The Expanding Medium." _IEEE Circuits and Dev
   
 Yeh, P. _Optical Waves in Layered Media_. New York, NY: Wiley, 2005, chapter 11.  
   
-Handout: 2D Approximation for Waveguide Effective Refractive Index neff ([PDF]({{< baseurl >}}/resources/2detive_ind_solu))  
+Handout: 2D Approximation for Waveguide Effective Refractive Index n{{< sub "eff" >}} ([PDF]({{< baseurl >}}/resources/2detive_ind_solu))  
   
 Handout: Energy Conversion Chart ([PDF]({{< baseurl >}}/resources/energy_conv)) (Figure by MIT OCW.)  
   
