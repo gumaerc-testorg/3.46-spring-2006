@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9154f54b-dd92-641d-dfab-1cf4edfd209a
 resourcetype: Document
 title: si_mphc_lck.pdf
 uid: 938e1298-052e-b7b3-0af0-edf3ad93bb8c

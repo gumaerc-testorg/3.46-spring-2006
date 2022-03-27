@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9154f54b-dd92-641d-dfab-1cf4edfd209a
 resourcetype: Document
 title: bns_bonds_kimerl.pdf
 uid: 8d0b1a25-08d2-acbd-f665-3aa431b8a5c8

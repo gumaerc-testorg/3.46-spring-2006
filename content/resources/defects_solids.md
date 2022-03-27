@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9154f54b-dd92-641d-dfab-1cf4edfd209a
 resourcetype: Document
 title: defects_solids.pdf
 uid: 37924f59-c7c2-a4e7-17a0-efa89ba71ea3

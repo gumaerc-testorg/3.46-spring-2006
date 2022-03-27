@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9154f54b-dd92-641d-dfab-1cf4edfd209a
 resourcetype: Document
 title: phase_t2.pdf
 uid: d5914452-6ae4-59ea-d915-d8ed35ff59c2

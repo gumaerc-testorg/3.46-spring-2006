@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ce6d62ba-bf5a-410c-efb1-cd0f48ceec10
 resourcetype: Document
 title: 3_46lec11_lasers.pdf
 uid: f94814c9-20d0-1250-1d9f-0a734977b95d

@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 12dbbc1f-f406-d9a1-7089-339cbf2567eb
 resourcetype: Document
 title: 3_46_des_rev1.pdf
 uid: 92d0457d-e1ee-6af3-4e96-c6eec2e42096

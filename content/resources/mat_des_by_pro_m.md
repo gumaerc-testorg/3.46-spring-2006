@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9154f54b-dd92-641d-dfab-1cf4edfd209a
 resourcetype: Document
 title: mat_des_by_pro_m.pdf
 uid: a18a1b6c-8844-a69c-6171-a8c0159b464c

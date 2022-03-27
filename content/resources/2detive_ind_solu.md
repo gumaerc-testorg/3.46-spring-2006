@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9154f54b-dd92-641d-dfab-1cf4edfd209a
 resourcetype: Document
 title: 2detive_ind_solu.pdf
 uid: d271a0e3-3fce-205f-1e9c-b131f6b414ee

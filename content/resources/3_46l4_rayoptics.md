@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ce6d62ba-bf5a-410c-efb1-cd0f48ceec10
 resourcetype: Document
 title: 3_46l4_rayoptics.pdf
 uid: c002c842-9ae1-f88a-7898-2a53f0f9bb86

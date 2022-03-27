@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: ce6d62ba-bf5a-410c-efb1-cd0f48ceec10
 resourcetype: Document
 title: 3_46l14_defects.pdf
 uid: 5c303cb9-b7be-85a4-3704-cb20f73d045d

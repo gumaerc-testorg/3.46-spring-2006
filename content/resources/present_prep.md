@@ -10,6 +10,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 12dbbc1f-f406-d9a1-7089-339cbf2567eb
 resourcetype: Document
 title: present_prep.pdf
 uid: c86bcde6-cd49-3a38-283d-6cce788ee3d0

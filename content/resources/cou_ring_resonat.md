@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 9154f54b-dd92-641d-dfab-1cf4edfd209a
 resourcetype: Document
 title: cou_ring_resonat.pdf
 uid: 33bce5b1-2c28-13a6-45c0-9dfffb3914ea
