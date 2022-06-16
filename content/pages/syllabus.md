@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: The syllabus section contains information about textbook, class format,
+  Singapore-MIT Alliance (SMA) workgroups, assignments, design review projects, weekly
+  quizzes, grading criteria and course calendar.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: The readings section contains readings on the book fundamentals of photonics.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -41,9 +42,9 @@ Chapter 5
 {{< tdopen >}}
 Glass, A. M. "Optical Materials." _Science_ 235 (February 27, 1987): 1003-1009.  
   
-Kimerling, L. C. "Bands and Bonds." ([PDF]({{< baseurl >}}/resources/bns_bonds_kimerl))  
+Kimerling, L. C. "Bands and Bonds." ({{% resource_link 8d0b1a25-08d2-acbd-f665-3aa431b8a5c8 "PDF" %}})  
   
-Handout: Materials Design by Property Maps (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/mat_des_by_pro_m))  
+Handout: Materials Design by Property Maps ({{% resource_link a18a1b6c-8844-a69c-6171-a8c0159b464c "PDF" %}})  
   
 [Periodic Table of the Elements](http://www.webelements.com/webelements/index.html)  
   
@@ -66,7 +67,7 @@ Berger, L. I., and B. R. Pamplin. "Properties of Semiconductors." _CRC Handbook 
   
 Glass, A. M. "Optical Materials." _Science_ 235 (February 27, 1987): 1003-1009.  
   
-Kimerling, L. C. "Bands and Bonds." ([PDF]({{< baseurl >}}/resources/bns_bonds_kimerl))  
+Kimerling, L. C. "Bands and Bonds." ({{% resource_link 8d0b1a25-08d2-acbd-f665-3aa431b8a5c8 "PDF" %}})  
   
 Villars, P. "A Three-Dimensional Structural Stability Diagram for 998 Binary AB Intermetallic Compounds." _Journal of the Less-Common Metals_ 92 (1983): 215-238.
 {{< tdclose >}}
@@ -85,7 +86,7 @@ Chapter 22
 {{< tdopen >}}
 Kartalopoulos, S. V. "Elastic Bandwidth: The Flexibility of DWDM in Handling Continually Increasing Bandwidth Demands for Future Optical-Fiber Communication Networks." _IEEE Circuits and Devices Magazine_ (January 2002): 8-13.  
   
-Supplemental Handouts ([PDF]({{< baseurl >}}/resources/sys_des_handout))
+Supplemental Handouts ({{% resource_link 623bce89-4711-3e61-8bc6-209cfb8d3779 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -106,7 +107,7 @@ Haus, H. A. _Waves and Fields in Optoelectronics_. Chapeter 1.
   
 Yeh, P. _Optical Waves in Layered Media_. New York, NY: Wiley, 2005, chapter 2.  
   
-Handout: Dielectric Response in an SiO{{< sub "2" >}} Optical Fiber ([PDF]({{< baseurl >}}/resources/dielectric_plot))
+Handout: Dielectric Response in an SiO{{< sub "2" >}} Optical Fiber ({{% resource_link 5dd757c1-f58a-6add-8d5b-0b65151d22be "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -123,17 +124,17 @@ Chapters 7 and 8
 {{< tdopen >}}
 Glass, Alastair M., David J. DiGiovanni, Thomas A. Strasser, Andrew J. Stentz, Richard E. Slusher, Alice E. White, A Refik Kortan, and Benjamin J. Eggleton. "Advances in Fiber Optics." _Bell Labs Technical Journal_ 5, no. 1 (January - March 2000): 168-187.  
   
-Hopper, F. "Basics on Optical Waveguides: Materials, Systems, and Technologies." _Quaderni di Fotonica._ Vol. 8, Societa italiana di ottica e fotonica, 2001, pp. 65-80. ISBN: 9788879571234. (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/bics_on_opt_w_ho)) (Courtesy of Fred Hopper. Used with permission.)  
+Hopper, F. "Basics on Optical Waveguides: Materials, Systems, and Technologies." _Quaderni di Fotonica._ Vol. 8, Societa italiana di ottica e fotonica, 2001, pp. 65-80. ISBN: 9788879571234. ({{% resource_link bc7c3781-0852-f531-2cb3-668acb99f226 "PDF" %}}) (Courtesy of Fred Hopper. Used with permission.)  
   
 Nagel, Suzanne R. "Optical Fiber - The Expanding Medium." _IEEE Circuits and Devices Magazine_ (March 1989): 36-45.  
   
 Yeh, P. _Optical Waves in Layered Media_. New York, NY: Wiley, 2005, chapter 11.  
   
-Handout: 2D Approximation for Waveguide Effective Refractive Index n{{< sub "eff" >}} ([PDF]({{< baseurl >}}/resources/2detive_ind_solu))  
+Handout: 2D Approximation for Waveguide Effective Refractive Index n{{< sub "eff" >}} ({{% resource_link d271a0e3-3fce-205f-1e9c-b131f6b414ee "PDF" %}})  
   
-Handout: Energy Conversion Chart ([PDF]({{< baseurl >}}/resources/energy_conv)) (Figure by MIT OCW.)  
+Handout: Energy Conversion Chart ({{% resource_link 26fe6cdc-595d-1800-0c0f-1ed492623294 "PDF" %}}) (Figure by MIT OCW.)  
   
-Handout: Waveguide Propagation Loss ([PDF]({{< baseurl >}}/resources/wav_propag_loss))
+Handout: Waveguide Propagation Loss ({{% resource_link d0ce5398-061c-b3e6-9fa5-614e89e4e6fc "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -152,7 +153,7 @@ Haus, H. A. _Waves and Fields in Optoelectronics_. Englewood Cliffs, NJ: Prentic
   
 Wippich, Mark, and Kathy Li Dessau. "Tunable Lasers and Fiber-Bragg-Grating Sensors." _The Industrial Physicist_ (June/July 2003): 24-27.  
   
-Handout: Coupled Ring Resonators ([PDF]({{< baseurl >}}/resources/cou_ring_resonat))  
+Handout: Coupled Ring Resonators ({{% resource_link 33bce5b1-2c28-13a6-45c0-9dfffb3914ea "PDF" %}})  
   
 [SiON Ring Resonators](http://www.zurich.ibm.com/st/optics/devices/ring.html): IBM Zurich's online project overview for high WDM performance Silicon Oxynitride microrings.  
   
@@ -303,7 +304,7 @@ Dautremont-Smith, C. William, R. J. McCoy, Randolph H. Burton, and Albert G. Bac
   
 Johnston, W. Dexter, Jr., Michael A. Digiuseppe, and Daniel P. Wilt. "Liquid and Vapor Phase Growth of III-V Materials for Photonic Devices." _AT&T Journal_ (January/February 1989): 53-63.  
   
-Kimerling, L. "Phase Transformations." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/phase_t2))  
+Kimerling, L. "Phase Transformations." ({{% resource_link d5914452-6ae4-59ea-d915-d8ed35ff59c2 "PDF" %}})  
   
 Panish, Mortan B. "Molecular-Beam Epitaxy." _AT&T Journal_ (January/February 1989): 43-52.
 {{< tdclose >}}
@@ -339,7 +340,7 @@ Defects and Strain
 {{< tdopen >}}
 Kimerling, L. C. "Defect Engineering." _MRS Bulletin_ (December 1991): 42-47.  
   
-———. "Notes on Defects in Solids." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/defects_solids))  
+———. "Notes on Defects in Solids." ({{% resource_link 37924f59-c7c2-a4e7-17a0-efa89ba71ea3 "PDF" %}})  
   
 ———. "The Influence of Electronic Excitation on the Performance and Reliability of Semiconductor Devices." _Reviews of Solid State Science_ 4 (1990): 335-354.  
   
@@ -405,7 +406,7 @@ Detectors 2
  
 {{< tdclose >}}
 {{< tdopen >}}
-Giovane, Laura. Excerpt from thesis "The Role of Strain in Optical Properties of Semiconductors." (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/detector2_thesis))
+Giovane, Laura. Excerpt from thesis "The Role of Strain in Optical Properties of Semiconductors." ({{% resource_link 06a2094d-d561-759b-d073-74e8428db050 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -420,7 +421,7 @@ Microphotonics 1
  
 {{< tdclose >}}
 {{< tdopen >}}
-Kimerling, L. C. "Silicon Microphotonics." ([PDF]({{< baseurl >}}/resources/si_mphc_lck))  
+Kimerling, L. C. "Silicon Microphotonics." ({{% resource_link 938e1298-052e-b7b3-0af0-edf3ad93bb8c "PDF" %}})  
   
 Pavesi, L., and D. J. Lockwood, eds. _Silicon Photonics_. New York, NY: Springer, 2004, chapter 3.  
   
@@ -447,7 +448,7 @@ Microphotonics 2
  
 {{< tdclose >}}
 {{< tdopen >}}
-Kimerling, L. C. "Silicon Microphotonics." ([PDF]({{< baseurl >}}/resources/si_mphc_lck))
+Kimerling, L. C. "Silicon Microphotonics." ({{% resource_link 938e1298-052e-b7b3-0af0-edf3ad93bb8c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
