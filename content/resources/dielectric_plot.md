@@ -6,6 +6,7 @@ file: /courses/3-46-photonic-materials-and-devices-spring-2006/5dd757c1f58a6add8
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: dielectric_plot.pdf
 uid: 5dd757c1-f58a-6add-8d5b-0b65151d22be
 ---
 This file contains an image which is illustrating dielectric response in an SiO2 optical fiber.
-

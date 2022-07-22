@@ -6,6 +6,7 @@ file: /courses/3-46-photonic-materials-and-devices-spring-2006/1b4ef6f1e68692581
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 3_46homework_2.pdf
 uid: 1b4ef6f1-e686-9258-11f0-3e46308aec23
 ---
 This file contains homework assignment 2 which discusses about property design diagram for the energy.
-

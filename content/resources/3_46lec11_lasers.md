@@ -7,6 +7,7 @@ file: /courses/3-46-photonic-materials-and-devices-spring-2006/f94814c920d012501
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 3_46lec11_lasers.pdf
 uid: f94814c9-20d0-1250-1d9f-0a734977b95d
 ---
 This file discusses about recombination, free excitons, bound excitons, isoelectronic traps, donor-acceptor pairs, lasers, equilibrium, Boltzmann and black body radiation.
-

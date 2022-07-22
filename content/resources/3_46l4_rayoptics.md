@@ -6,6 +6,7 @@ file: /courses/3-46-photonic-materials-and-devices-spring-2006/c002c8429ae1f88a7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 3_46l4_rayoptics.pdf
 uid: c002c842-9ae1-f88a-7898-2a53f0f9bb86
 ---
 This file discusses about light, photon, ray optics, Snell?s law, total internal reflection, index matching and electromagnetic optics.
-

@@ -6,6 +6,7 @@ file: /courses/3-46-photonic-materials-and-devices-spring-2006/d0ce5398061cb3e69
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: wav_propag_loss.pdf
 uid: d0ce5398-061c-b3e6-9fa5-614e89e4e6fc
 ---
 This file discusses about roughnessat waveguidecore/claddinginterface and leakage out of a curved waveguide.
-

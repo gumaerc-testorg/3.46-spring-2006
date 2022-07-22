@@ -7,6 +7,7 @@ file: /courses/3-46-photonic-materials-and-devices-spring-2006/5c303cb9b7be85a43
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: 3_46l14_defects.pdf
 uid: 5c303cb9-b7be-85a4-3704-cb20f73d045d
 ---
 This file discusses about perfection, imperfection, defect chemistry, vacancy equilibria, charge carriers as defects, point defect equilibria in compounds, nonstoichiometry and defect-carrier equilibria.
-
