@@ -5,6 +5,7 @@ description: This file discusses about non-equilibrium, photon emission @ therma
   spectral density of emission rate, LED devices, internal quantum efficiency and
   external quantum efficiency.
 file: /courses/3-46-photonic-materials-and-devices-spring-2006/8069350c0770b696f3d0cd6dde99f867_3_46lec10_leds.pdf
+file_size: 181954
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -4,6 +4,7 @@ description: This file discusses about materials property design, effective mass
   direct gap, indirect gap, compound semiconductors and fluorozirconates for long
   ?.
 file: /courses/3-46-photonic-materials-and-devices-spring-2006/0000f8a500b6002999f2e4fa08bee6ee_3_46lec2_optmat2.pdf
+file_size: 143810
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -3,6 +3,7 @@ content_type: resource
 description: This file contains homework assignment 1 which discusses about  relationship
   between dielectric constant and index of refraction.
 file: /courses/3-46-photonic-materials-and-devices-spring-2006/29eb1bc70161d8ffc1acdd8bceec2ca5_3_46_homework_1.pdf
+file_size: 19481
 file_type: application/pdf
 learning_resource_types:
 - Assignments

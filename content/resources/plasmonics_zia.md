@@ -3,6 +3,7 @@ content_type: resource
 description: This file discusses about abstract, conclusions, acknowledgements and
   references.
 file: /courses/3-46-photonic-materials-and-devices-spring-2006/2d54e29e95e07657a357216ad81fb1a6_plasmonics_zia.pdf
+file_size: 392595
 file_type: application/pdf
 learning_resource_types:
 - Readings
