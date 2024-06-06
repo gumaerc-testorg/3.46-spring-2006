@@ -4,6 +4,7 @@ description: This file contains homework assignment 6 which discusses about five
   of a multi-quantum well laser, combined effect of all non-stimulated recombination
   and modulation resonance frequency.
 file: /courses/3-46-photonic-materials-and-devices-spring-2006/b81cb2411d8aadccd86fd042ddc8d2c9_3_46_homework_6.pdf
+file_size: 37128
 file_type: application/pdf
 learning_resource_types:
 - Assignments

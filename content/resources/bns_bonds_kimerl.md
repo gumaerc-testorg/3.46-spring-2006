@@ -4,6 +4,7 @@ description: This file discusses about chemical bonds in solids which includes i
   solids, covalent solids, metallic solids, Van der Waals solids, hydrogen bonded
   solids and chemical trends in covalent solids.
 file: /courses/3-46-photonic-materials-and-devices-spring-2006/8d0b1a2508d2acbdf6653aa431b8a5c8_bns_bonds_kimerl.pdf
+file_size: 508554
 file_type: application/pdf
 learning_resource_types:
 - Readings

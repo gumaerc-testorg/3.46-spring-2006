@@ -3,6 +3,7 @@ content_type: resource
 description: This file discusses about Er gain-limiting effects, high concentration,
   ASE, amplifier length and gain flattening.
 file: /courses/3-46-photonic-materials-and-devices-spring-2006/623bce8947113e618bc6209cfb8d3779_sys_des_handout.pdf
+file_size: 191840
 file_type: application/pdf
 learning_resource_types:
 - Readings

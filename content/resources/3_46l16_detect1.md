@@ -4,6 +4,7 @@ description: This file discusses about semiconductor photon detectors, attribute
   photodetectors, external photoemitters, photoemissive ?surfaces?, photomultipliers,
   quantum efficiency, responsivity and R cutoffs.
 file: /courses/3-46-photonic-materials-and-devices-spring-2006/cfdc090cea023423a0f5ddd764de745a_3_46l16_detect1.pdf
+file_size: 277909
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
