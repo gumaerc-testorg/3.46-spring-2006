@@ -3,6 +3,7 @@ content_type: resource
 description: This file discusses about the presentation of design review which includes
   content, design, and presentation skills.
 file: /courses/3-46-photonic-materials-and-devices-spring-2006/c895c06d9fbec75e61141494866e86e5_3_46_des_rev4_fb.pdf
+file_size: 66541
 file_type: application/pdf
 learning_resource_types:
 - Projects

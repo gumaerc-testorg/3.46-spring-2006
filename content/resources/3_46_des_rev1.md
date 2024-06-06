@@ -4,6 +4,7 @@ description: This file contains design review 1 for this course which discusses 
   ridge waveguide, high reflectivity dielectric mirror, single mode fiber and efficient
   silicon  solar cell.
 file: /courses/3-46-photonic-materials-and-devices-spring-2006/92d0457de1ee6af34e96c6eec2e42096_3_46_des_rev1.pdf
+file_size: 244022
 file_type: application/pdf
 learning_resource_types:
 - Projects
