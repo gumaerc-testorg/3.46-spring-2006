@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses about goal, approach, electromagnetic field, Maxwell?s
   equations, EM wave, light in a medium and refractive index (n).
-file: /courses/3-46-photonic-materials-and-devices-spring-2006/5efbe006f817e26278e1d29903eed191_3_46lec1_optmat1.pdf
+file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/5efbe006f817e26278e1d29903eed191_3_46lec1_optmat1.pdf
 file_size: 138461
 file_type: application/pdf
 learning_resource_types:

@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses about ring width, coupled rings spacing and coupling
   rings in series.
-file: /courses/3-46-photonic-materials-and-devices-spring-2006/33bce5b12c2813a645c09dfffb3914ea_cou_ring_resonat.pdf
+file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/33bce5b12c2813a645c09dfffb3914ea_cou_ring_resonat.pdf
 file_size: 24742
 file_type: application/pdf
 learning_resource_types:
