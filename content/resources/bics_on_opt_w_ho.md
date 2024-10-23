@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses about in copertina, fundamentals, the slab waveguide,
   polarisation dependence and coupling of light into waveguides.
-file: /courses/3-46-photonic-materials-and-devices-spring-2006/bc7c37810852f5312cb3668acb99f226_bics_on_opt_w_ho.pdf
+file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/bc7c37810852f5312cb3668acb99f226_bics_on_opt_w_ho.pdf
 file_size: 245308
 file_type: application/pdf
 learning_resource_types:

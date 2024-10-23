@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains homework assignment 7 which discusses about in-plane
   (biaxial) strain in Ge thin films and defect failure mechanisms in laser diodes.
-file: /courses/3-46-photonic-materials-and-devices-spring-2006/303b28907e47bc06c9f74cd23a58091f_3_46_homework_7.pdf
+file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/303b28907e47bc06c9f74cd23a58091f_3_46_homework_7.pdf
 file_size: 24029
 file_type: application/pdf
 learning_resource_types:
