@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses about roughnessat waveguidecore/claddinginterface
   and leakage out of a curved waveguide.
-file: /courses/3-46-photonic-materials-and-devices-spring-2006/d0ce5398061cb3e69fa5614e89e4e6fc_wav_propag_loss.pdf
+file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/d0ce5398061cb3e69fa5614e89e4e6fc_wav_propag_loss.pdf
 file_size: 21983
 file_type: application/pdf
 learning_resource_types:

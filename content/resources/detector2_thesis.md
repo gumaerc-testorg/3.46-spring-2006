@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses about optical performance, band structure, conduction
   band, valence band and strain and band  structure.
-file: /courses/3-46-photonic-materials-and-devices-spring-2006/06a2094dd561759bd07374e8428db050_detector2_thesis.pdf
+file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/06a2094dd561759bd07374e8428db050_detector2_thesis.pdf
 file_size: 268260
 file_type: application/pdf
 learning_resource_types:
