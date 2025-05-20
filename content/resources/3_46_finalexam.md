@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains quizes based upon the UHF AM satellite radio, Bragg
   filter for 1 GHz signal, the light source, couplers, microwave modulator, strip/channel
   waveguides, and photodetectors.
-file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/7a318d69e9e87cb597b0d2e4bc32b118_3_46_finalexam.pdf
+file: /courses/3-46-photonic-materials-and-devices-spring-2006/7a318d69e9e87cb597b0d2e4bc32b118_3_46_finalexam.pdf
 file_size: 189108
 file_type: application/pdf
 learning_resource_types:

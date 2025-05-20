@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains an energy conversion chart.
-file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/26fe6cdc595d18000c0f1ed492623294_energy_conv.pdf
+file: /courses/3-46-photonic-materials-and-devices-spring-2006/26fe6cdc595d18000c0f1ed492623294_energy_conv.pdf
 file_size: 89045
 file_type: application/pdf
 learning_resource_types:

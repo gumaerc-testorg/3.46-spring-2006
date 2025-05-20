@@ -3,7 +3,7 @@ content_type: resource
 description: This file discusses about recombination, free excitons, bound excitons,
   isoelectronic traps, donor-acceptor pairs, lasers, equilibrium, Boltzmann and black
   body radiation.
-file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/f94814c920d012501d9f0a734977b95d_3_46lec11_lasers.pdf
+file: /courses/3-46-photonic-materials-and-devices-spring-2006/f94814c920d012501d9f0a734977b95d_3_46lec11_lasers.pdf
 file_size: 426680
 file_type: application/pdf
 learning_resource_types:

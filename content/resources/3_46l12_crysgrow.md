@@ -3,7 +3,7 @@ content_type: resource
 description: This file discusses about compound semiconductor crystal growth, intensive
   variables, Gibbs phase rule, one component system, two component system, solidification
   crystalline state, immiscible systems and compound formation.
-file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/81135cf28c5a3b79f0eb560340761e2b_3_46l12_crysgrow.pdf
+file: /courses/3-46-photonic-materials-and-devices-spring-2006/81135cf28c5a3b79f0eb560340761e2b_3_46l12_crysgrow.pdf
 file_size: 512691
 file_type: application/pdf
 learning_resource_types:

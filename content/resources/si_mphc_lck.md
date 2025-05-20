@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses about abstract, introduction, optical interconnection,
   monolithic silicon microphotinics, photon propagation and photon creation.
-file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/938e1298052eb7b30af0edf3ad93bb8c_si_mphc_lck.pdf
+file: /courses/3-46-photonic-materials-and-devices-spring-2006/938e1298052eb7b30af0edf3ad93bb8c_si_mphc_lck.pdf
 file_size: 531295
 file_type: application/pdf
 learning_resource_types:

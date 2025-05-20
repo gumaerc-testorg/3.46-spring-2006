@@ -3,7 +3,7 @@ content_type: resource
 description: This file contains design review 2 which discusses about VCSEL light
   source, table of relevant materials properties for VCSEL design, tunable light source
   and broadband planar light source.
-file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/3bd297ca85c69fb2d98079b2ac106ed3_3_46_des_rev2.pdf
+file: /courses/3-46-photonic-materials-and-devices-spring-2006/3bd297ca85c69fb2d98079b2ac106ed3_3_46_des_rev2.pdf
 file_size: 475426
 file_type: application/pdf
 learning_resource_types:
