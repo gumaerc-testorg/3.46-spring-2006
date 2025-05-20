@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains homework assignment 5 which discusses about quantum
   wells and LEDs.
-file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/f86c8b893b4133ed30ff861b97228c11_3_46_homework_5.pdf
+file: /courses/3-46-photonic-materials-and-devices-spring-2006/f86c8b893b4133ed30ff861b97228c11_3_46_homework_5.pdf
 file_size: 18535
 file_type: application/pdf
 learning_resource_types:
