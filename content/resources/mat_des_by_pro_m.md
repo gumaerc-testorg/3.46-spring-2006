@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains a chart based upon materials design by property maps.
-file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/a18a1b6c8844a69c6171a8c0159b464c_mat_des_by_pro_m.pdf
+file: /courses/3-46-photonic-materials-and-devices-spring-2006/a18a1b6c8844a69c6171a8c0159b464c_mat_des_by_pro_m.pdf
 file_size: 45655
 file_type: application/pdf
 learning_resource_types:

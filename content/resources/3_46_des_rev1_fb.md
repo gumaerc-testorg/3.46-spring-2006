@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains design review 1 for the course.
-file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/171f88f3728c678bc94f1acb3e6ddeb3_3_46_des_rev1_fb.pdf
+file: /courses/3-46-photonic-materials-and-devices-spring-2006/171f88f3728c678bc94f1acb3e6ddeb3_3_46_des_rev1_fb.pdf
 file_size: 21466
 file_type: application/pdf
 learning_resource_types:

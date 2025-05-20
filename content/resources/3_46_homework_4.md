@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains homework assignment 4 which discusses aobut photonic
   crystals, resonant cavity and ring resonator.
-file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/5a3a7fa49df89bb0518d657b91103d6e_3_46_homework_4.pdf
+file: /courses/3-46-photonic-materials-and-devices-spring-2006/5a3a7fa49df89bb0518d657b91103d6e_3_46_homework_4.pdf
 file_size: 60843
 file_type: application/pdf
 learning_resource_types:

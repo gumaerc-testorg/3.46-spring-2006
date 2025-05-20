@@ -2,7 +2,7 @@
 content_type: resource
 description: This file discusses about detector attributes, "digital" sensitivity,
   detector design rules and some exams.
-file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/d1fc52ef42d27445c6b4319b035c8cb2_3_46l17_detect2.pdf
+file: /courses/3-46-photonic-materials-and-devices-spring-2006/d1fc52ef42d27445c6b4319b035c8cb2_3_46l17_detect2.pdf
 file_size: 124941
 file_type: application/pdf
 learning_resource_types:
