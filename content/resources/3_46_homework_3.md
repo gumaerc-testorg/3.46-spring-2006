@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains homework assignment 3 which discusses about field
   polarization and Jones matrices.
-file: /courses/3-46-photonic-materials-and-devices-spring-2006/95e354ca9169d6039805cc22ca4c3eda_3_46_homework_3.pdf
+file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/95e354ca9169d6039805cc22ca4c3eda_3_46_homework_3.pdf
 file_size: 48021
 file_type: application/pdf
 learning_resource_types:
