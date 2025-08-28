@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains homework assignment 2 which discusses about property
   design diagram for the energy.
-file: /courses/3-46-photonic-materials-and-devices-spring-2006/1b4ef6f1e686925811f03e46308aec23_3_46homework_2.pdf
+file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/1b4ef6f1e686925811f03e46308aec23_3_46homework_2.pdf
 file_size: 16465
 file_type: application/pdf
 learning_resource_types:

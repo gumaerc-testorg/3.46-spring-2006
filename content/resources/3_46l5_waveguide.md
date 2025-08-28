@@ -3,7 +3,7 @@ content_type: resource
 description: This file discusses about fiber optics, step index fiber, guided waves,
   V-parameter, weakly guiding fiber, M, number of modes, group velocity and single
   mode fibers.
-file: /courses/3-46-photonic-materials-and-devices-spring-2006/2229d0701ea240ed993e2a499432519b_3_46l5_waveguide.pdf
+file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/2229d0701ea240ed993e2a499432519b_3_46l5_waveguide.pdf
 file_size: 236842
 file_type: application/pdf
 learning_resource_types:

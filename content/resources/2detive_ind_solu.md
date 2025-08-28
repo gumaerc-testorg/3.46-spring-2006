@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file discusses about ridge waveguide and buried strip/channel waveguide.
-file: /courses/3-46-photonic-materials-and-devices-spring-2006/d271a0e33fce205f1e9cb131f6b414ee_2detive_ind_solu.pdf
+file: /ol-ocw-studio-app/courses/3-46-photonic-materials-and-devices-spring-2006/d271a0e33fce205f1e9cb131f6b414ee_2detive_ind_solu.pdf
 file_size: 13120
 file_type: application/pdf
 learning_resource_types:
