@@ -46,9 +46,9 @@ Kimerling, L. C. "Bands and Bonds." ({{% resource_link 8d0b1a25-08d2-acbd-f665-3
   
 Handout: Materials Design by Property Maps ({{% resource_link a18a1b6c-8844-a69c-6171-a8c0159b464c "PDF" %}})  
   
-[Periodic Table of the Elements](http://www.webelements.com/webelements/index.html)  
+{{% resource_link "d03e89d6-3d3d-4f2f-ba51-03efe4932f16" "Periodic Table of the Elements" %}}  
   
-[EM Teaching Tool](http://micro.magnet.fsu.edu/primer/java/electromagnetic/index.html): A Web site that shows dynamic visualization of electromagnetic (light) field profile as a function of wavelength.
+{{% resource_link "1e3aacd8-5ed1-4668-9eac-01fa5fbb5a4a" "EM Teaching Tool" %}}: A Web site that shows dynamic visualization of electromagnetic (light) field profile as a function of wavelength.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -155,7 +155,7 @@ Wippich, Mark, and Kathy Li Dessau. "Tunable Lasers and Fiber-Bragg-Grating Sens
   
 Handout: Coupled Ring Resonators ({{% resource_link 33bce5b1-2c28-13a6-45c0-9dfffb3914ea "PDF" %}})  
   
-[SiON Ring Resonators](http://www.zurich.ibm.com/st/optics/devices/ring.html): IBM Zurich's online project overview for high WDM performance Silicon Oxynitride microrings.  
+{{% resource_link "471bb74a-8340-4269-b1dc-30f8d281b355" "SiON Ring Resonators" %}}: IBM Zurich's online project overview for high WDM performance Silicon Oxynitride microrings.  
   
 III-V Microring Filters: An online presentation of the process flow to create micron-scale ring resonators out of In GaAsP material.
 {{< tdclose >}}
@@ -178,9 +178,9 @@ Yablonovitch, Eli. "Photonic Crystals: Semiconductors of Light." _Scientific Ame
   
 Yeh, P. _Optical Waves in Layered Media_. New York, NY: Wiley, 2005, chapters 6 and 11.  
   
-Parker, G., and M. Charlton. "[Photonic Crystals](http://physicsweb.org/articles/world/13/8/9/1)." (A _Physics World_ online article introducing photonic crystal structures.)  
+Parker, G., and M. Charlton. "{{% resource_link "8c73fc69-d064-4927-8858-046342242297" "Photonic Crystals" %}}." (A _Physics World_ online article introducing photonic crystal structures.)  
   
-[Measuring Photonic Crystals](http://physicsweb.org/articles/news/9/4/5): A Physics Web online news article about recent success in determining photonic crystal properties from direct experiment.
+{{% resource_link "9361ac07-cbbc-42de-8a58-8ff022cc5017" "Measuring Photonic Crystals" %}}: A Physics Web online news article about recent success in determining photonic crystal properties from direct experiment.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -201,9 +201,9 @@ Pierret, R. F. "Modular Series on Solid State Devices, Volume VI: Advanced Semic
   
 Yu, P. Y., and M. Cardona. "Fundamentals of Semiconductors." New York, NY: Springer, 2005, chapters 7 and 9.  
   
-[Bragg's Law](http://en.wikipedia.org/wiki/Bragg%27s_law): Wikipedia's online description of Bragg's Law. The schematics are very helpful for visualization of the concept, and its impact in X-ray crystallography.  
+{{% resource_link "492236c0-281c-468e-b0dd-dec264252d54" "Bragg's Law" %}}: Wikipedia's online description of Bragg's Law. The schematics are very helpful for visualization of the concept, and its impact in X-ray crystallography.  
   
-[Bragg Diffraction](http://en.wikipedia.org/wiki/Bragg_diffraction): Wikipedia's online description of Bragg Diffraction, the K-space visualization of Bragg's Law. This is very helping for better understanding Tool Box (12).
+{{% resource_link "4272b1ca-725c-4a04-b01f-d39687d48965" "Bragg Diffraction" %}}: Wikipedia's online description of Bragg Diffraction, the K-space visualization of Bragg's Law. This is very helping for better understanding Tool Box (12).
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -425,15 +425,15 @@ Kimerling, L. C. "Silicon Microphotonics." ({{% resource_link 938e1298-052e-b7b3
   
 Pavesi, L., and D. J. Lockwood, eds. _Silicon Photonics_. New York, NY: Springer, 2004, chapter 3.  
   
-[Photonics](http://en.wikipedia.org/wiki/Photonics) (Wikipedia)  
+{{% resource_link "ac46d83d-5df0-4081-ae57-2b65208dc20c" "Photonics" %}} (Wikipedia)  
   
-[IBM Silicon Nanophotonics](http://researcher.watson.ibm.com/researcher/view_group.php?id=2757): IBM's Si photonics group at the T. J. Watson Research Center, Yorktown Heights (NY).  
+{{% resource_link "2a0ec32f-ba74-4866-8596-ff5d4dd24b03" "IBM Silicon Nanophotonics" %}}: IBM's Si photonics group at the T. J. Watson Research Center, Yorktown Heights (NY).  
   
-[Intel Silicon Photonics](http://techresearch.intel.com/articles/Tera-Scale/1419.htm): Intel's Si Photonics group at the Intel Site, Santa Clara (CA).  
+{{% resource_link "146aea33-e055-4ec3-9772-4ef97f255835" "Intel Silicon Photonics" %}}: Intel's Si Photonics group at the Intel Site, Santa Clara (CA).  
   
-[Light Reading](http://www.lightreading.com/): Online resource for popular science articles about photonics.  
+{{% resource_link "58fa7cd8-4fc9-4d6e-935b-2d4a651a65e5" "Light Reading" %}}: Online resource for popular science articles about photonics.  
   
-[Photonics.com](http://www.photonics.com/): Online portal for popular articles and links to the global photonics community.
+{{% resource_link "820e3ea6-6a26-4ad0-bbeb-fe3b0c498965" "Photonics.com" %}}: Online portal for popular articles and links to the global photonics community.
 {{< tdclose >}}
 
 {{< trclose >}}
